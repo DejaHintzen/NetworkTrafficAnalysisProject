@@ -4,7 +4,7 @@ This responsitory is made by Deja Hintzen, Fabrittzio Cabrejos, and Brenda Nyiam
 
 How to use:
 
-1st. You need to run the python file either from the console or the IDE of your choice.
+1st. You need enter the file location of the packet capturing file that would would like to analyze then run the python file either from the console or the IDE of your choice.
 
 2nd. The tool will read through eaach line of the packet capturing file and based on the parameters set for each anomaly, lines that are suspicious will be flagged.
 
